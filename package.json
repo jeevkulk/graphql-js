@@ -1,0 +1,24 @@
+{
+  "name": "graphql-tutorial",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "jeevkulk",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.14.0",
+    "express-graphql": "^0.6.1",
+    "graphql": "^0.8.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jeevkulk/graphq-js.git"
+  },
+  "bugs": {
+    "url": "https://github.com/jeevkulk/graphq-js/issues"
+  },
+  "homepage": "https://github.com/jeevkulk/graphq-js#readme",
+  "description": ""
+}
